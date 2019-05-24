@@ -1,0 +1,5 @@
+[serveurs]
+Ferme RDP=srvrdp01,srvrdp02,srvrdp03
+srvrdp01=srvrdp01
+srvrdp02=srvrdp02
+srvrdp03=srvrdp03

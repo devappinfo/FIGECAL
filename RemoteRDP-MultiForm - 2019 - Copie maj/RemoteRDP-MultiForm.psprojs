@@ -1,0 +1,11 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>49660242-36f1-4571-9038-efb4de726ce7</FileID>
+  <OpenFolders />
+  <OpenFiles>
+    <File>Globals.ps1</File>
+    <File>ProcessRemote.ps1</File>
+    <File>MsgForm.psf</File>
+    <File>MainForm.psf</File>
+  </OpenFiles>
+</ProjectState>
