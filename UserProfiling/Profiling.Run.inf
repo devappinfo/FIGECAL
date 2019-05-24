@@ -1,0 +1,84 @@
+[Entite]
+AGORI=AGO-
+FIGECAL=FIG-
+
+[AGORI]
+Seyssinet=
+Vizille=
+La Mure=
+
+[FIGECAL]
+Bonchamp=
+Laval=
+Change=
+Ernee=
+Evron=
+Sable=
+Rennes=
+Vitre=
+
+[AGO-Seyssinet]
+Adresse=11 rue de la Poste
+CP=38170
+Tel=04 56 40 07 00
+
+[AGO-Vizille]
+Adresse=26 rue des Docteurs Bonnardon
+CP=38220
+Tel=04 76 78 32 68
+
+[AGO-La Mure]
+Adresse=51 av du 22 août 1944
+CP=38350
+Tel=04 76 81 37 82
+
+[FIG-Bonchamp]
+Adresse=rue des Martinieres
+CP=53960
+Tel=02 43 58 05 80
+
+[FIG-Laval]
+Adresse=Avenue de Chanzy
+CP=53061
+Tel=02 43 02 00 00
+
+[FIG-Change]
+Adresse=Technopole, Batiment L, 2 rue Albert Einstein
+CP=53810
+Tel=
+
+[FIG-Ernee]
+Adresse=Zone de la Querminais
+CP=53500
+Tel=02 43 05 05 05
+
+[FIG-Evron]
+Adresse=Route de Mezangers
+CP=53600
+Tel=02 43 01 77 77
+
+[FIG-Sable]
+Adresse=Z.T de la Martiniere
+CP=72300
+Tel=02 43 95 39 53
+
+[FIG-Rennes]
+Adresse=10 rue du Bignon
+CP=35000
+Tel=02 99 41 88 49
+
+[FIG-Vitre]
+Adresse=3 Avenue de Lymington
+CP=35500
+Tel=02 30 05 12 12
+
+[Metiers]
+Comptable=
+CAC=
+Social=
+Revision=
+Juridique=
+
+
+
+
