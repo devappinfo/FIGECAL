@@ -1,5 +1,5 @@
 ﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
-  <Version>2.0</Version>
+  <Version>2.1</Version>
   <FileID>8b674871-06d9-433c-a50f-64c180859400</FileID>
   <ProjectType>0</ProjectType>
   <Folders />
